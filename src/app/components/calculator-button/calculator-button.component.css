@@ -1,0 +1,12 @@
+.btn {
+  float: left;
+  height: 80px;
+  font-size: 1.2em;
+  border: 1px solid;
+  width: 5.4vw;
+  margin-left: -0.6vw;
+}
+
+.btn-special {
+  width: 11vw;
+}
